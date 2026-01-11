@@ -1,6 +1,6 @@
-# Setup Logger
+# CLI Command Logger
 
-Brief CLI setup logging for system configuration tasks.
+A terse CLI command logging for system configuration tasks.
 
 ## Instructions
 
